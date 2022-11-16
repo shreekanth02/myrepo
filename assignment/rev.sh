@@ -7,3 +7,4 @@ do
 	head -$count $file | tail -1 | rev
 	count=`expr $count - 1`
 done
+echo "changing line"

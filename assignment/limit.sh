@@ -4,3 +4,4 @@ if [ $pr -gt 70 ]
 then
 	echo "send an email"
 fi
+echo "changing lines"

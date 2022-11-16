@@ -7,4 +7,5 @@ do
 	then
 		echo "send an email"
 	fi
-done	
+done
+echo "changing lines"
