@@ -1,5 +1,5 @@
 #1/bin/bash
-echo "enter the file name"
+echo "enter the file name""prajwal"
 read file
 count=`cat $file | wc -l`
 while [ $count -gt 0 ]
