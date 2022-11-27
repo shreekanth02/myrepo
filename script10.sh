@@ -13,4 +13,5 @@ then
 	echo "the number $b is greatest number"
 else
 	echo "the number $c is greatest number"
+	echo "checking jenkins"
 fi
