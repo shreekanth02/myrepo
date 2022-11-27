@@ -1,10 +1,10 @@
 #!/bin/bash
 echo "enter the first number"
-read a
+a=$1
 echo "enter the second number"
-read b
+b=$2
 echo "enter the third number"
-read c
+c=$3
 if [ $a -gt $b -a $a -gt $c ]
 then
 	echo "the number $a is greatest number"
